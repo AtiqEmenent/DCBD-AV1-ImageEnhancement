@@ -3,7 +3,7 @@ Enhancement of AV1 compressed images using DCBDNet
 
 ### **Overview**
 
-This repository contains a Jupyter Notebook (`.ipynb`) that implements an **image enhancement pipeline** for AV1-based image processing. The notebook demonstrates how to improve image quality using advanced denoising and enhancement techniques.
+This repository contains a Google Coab file (`.ipynb`) that implements an **image enhancement pipeline** for AV1-based image processing. The notebook demonstrates how to improve image quality using advanced denoising and enhancement techniques.
 
 ***
 
